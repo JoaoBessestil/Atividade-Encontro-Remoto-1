@@ -1,0 +1,8 @@
+Cadastras as peças - criar um array para o nome das peças
+
+Peça deve possuir 100g ou mais para ser cadastrada
+
+Capacidade máxima de peças cadastradas é de 3 unidades 
+
+Verificar se a peça possui um nome de mais de 3 caracteres, se sim permitir cadastro,
+senão se a peça tiver o nome vazio, notificar o usuario, senão cadastro negado
